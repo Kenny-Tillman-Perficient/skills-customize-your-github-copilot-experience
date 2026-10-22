@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-endpoints",
+      "title": "Testing FastAPI Endpoints with pytest",
+      "description": "Write automated tests for FastAPI task endpoints using pytest and TestClient.",
+      "path": "assignments/testing-fastapi-endpoints",
+      "dueDate": "2026-10-29",
+      "attachments": [
+        {
+          "name": "Test Starter Code",
+          "file": "test_app.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
